@@ -31,10 +31,6 @@ Dentro do arquivo `.env`, deverão conter as seguintes variáveis:
   - Esta variável é utilizada ao subir o container utilizando o Docker de produção.
   - Qualquer valor numérico pode ser utilizado; geralmente a porta do React é `3000`.
 
-O arquivo `.env` ficará assim:
-
-![Mostrando .env](https://i.imgur.com/gBD4MA1.png)
-
 ## Estrutura do projeto
 
 Após fazer o clone do repositório a estrutura do seu projeto irá se parecer com isso:
