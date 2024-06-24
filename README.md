@@ -3,9 +3,10 @@
 ## Inicio
 
 1. Clone este repositório
-2. Certifique-se de que você está utilizando a versão correta do Node.js (16.0) usando `node --version` no terminal. Recomenda-se utilizar o [nvm](https://github.com/nvm-sh/nvm) para gerenciar as versões do Node.js. Caso ainda não tenha o nvm instalado, siga as instruções no repositório oficial.
+2. Certifique-se que você tenha o Node.js e NPM instalado.
 3. Instale as dependências do projeto listadas em `package.json`:
 
+- ⚠️ É importante que você esteja utilizando a versão correta do Node.js (16.0.0), confira usando `node --version` no terminal. Recomenda-se utilizar o [nvm](https://github.com/nvm-sh/nvm) para gerenciar as versões do Node.js. Caso ainda não tenha o nvm instalado, siga as instruções no repositório oficial.
 ```
 npm install --force
 ```
@@ -18,7 +19,6 @@ Um arquivo com as variáveis de ambiente já configuradas pode ser encontrado na
 
 ```
 cp env_example
-
 ```
 
 Dentro do arquivo `.env`, deverão conter as seguintes variáveis:
