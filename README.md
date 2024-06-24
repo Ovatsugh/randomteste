@@ -1,7 +1,5 @@
 # Conecta Canaã - Front End
 
-## Como iniciar o aplicativo?
-
 ### Adicionando as variáveis de ambiente
 Para definir a URL das APIs, é necessário criar um arquivo com o nome `.env` na raiz do repositório. Os arquivos do repositório devem ser organizados como na imagem abaixo:
 
