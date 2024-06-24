@@ -28,7 +28,7 @@ Dentro do arquivo `.env`, deverão conter as seguintes variáveis:
 
 
 - `PORT`
-  - Esta variável é utilizada ao subir o container utilizando o Docker de produção.
+  - Esta variável é utilizada para especificar a porta onde a aplicação vai rodar.
   - Qualquer valor numérico pode ser utilizado; geralmente a porta do React é `3000`.
 
 ## Estrutura do projeto
@@ -37,7 +37,6 @@ Após fazer o clone do repositório a estrutura do seu projeto irá se parecer c
 
 ```
 
-├── README.md
 ├── nginx
 ├── node_modules
 ├── public
@@ -50,10 +49,9 @@ Após fazer o clone do repositório a estrutura do seu projeto irá se parecer c
 ├── .env_example 
 ├── package-lock.json
 ├── package.json
-├── README.md
-├── tailwind.config.js
-├── webpack.config.js
-└── yarn.lock
+└──  README.md
+
+
 ```
 
 ## Executando a aplicação
