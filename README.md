@@ -10,13 +10,11 @@
 npm install --force
 ```
 
-- ⚠️ É importante que você esteja utilizando a versão correta do Node.js (16.0.0), confira usando `node --version` no terminal. Recomenda-se utilizar o [nvm](https://github.com/nvm-sh/nvm) para gerenciar as versões do Node.js. Caso ainda não tenha o nvm instalado, siga as instruções no repositório oficial.
+- ⚠️ É importante que você esteja utilizando a versão correta do Node.js (16.0.0), confira usando `node --version` no terminal. Recomenda-se utilizar o [nvm](https://github.com/nvm-sh/nvm) para gerenciar as versões do Node.js. Caso ainda não tenha o nvm instalado, siga as instruções no [repositório](https://github.com/nvm-sh/nvm) oficial.
 
 ## ⚙️ Adicionando as variáveis de ambiente
 
-Para definir a URL das APIs, é necessário criar um arquivo com o nome `.env` na raiz do repositório. Os arquivos do repositório devem ser organizados como na imagem abaixo:
-
-Um arquivo com as variáveis de ambiente já configuradas pode ser encontrado na raiz do projeto. Para utilizá-lo, basta executar o comando: 
+Para definir a URL das APIs, é necessário criar um arquivo com o nome `.env` na raiz do repositório. Um arquivo com as variáveis de ambiente já configuradas pode ser encontrado na raiz do projeto. Para utilizá-lo, basta executar o comando: 
 
 ```
 cp env_example
@@ -62,15 +60,11 @@ Após fazer o clone do repositório a estrutura do seu projeto irá se parecer c
 └── yarn.lock
 ```
 
-## 📚 Instalando dependências
-
-Certifique-se de que você está utilizando a versão correta do Node.js (16.0) usando `node --version` no terminal. Recomenda-se utilizar o [nvm](https://github.com/nvm-sh/nvm) para gerenciar as versões do Node.js. Caso ainda não tenha o nvm instalado, siga as instruções no repositório oficial.
-
-Para instalar as dependências do projeto, execute o comando:`npm install --force`
-
 ## 💨 Executando a aplicação
 
-Para inicializar a aplicação use o comando `npm start`
+Para inicializar a aplicação use o comando:
+
+ ```npm start```
 
 ![Mostrando .env](https://i.imgur.com/1b04WLa.png)
 
