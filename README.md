@@ -64,7 +64,9 @@ Após fazer o clone do repositório a estrutura do seu projeto irá se parecer c
 
 Para inicializar a aplicação use o comando:
 
- ```npm start```
+ ```
+ npm start
+ ```
 
 ![Mostrando .env](https://i.imgur.com/1b04WLa.png)
 
