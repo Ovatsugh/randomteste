@@ -1,6 +1,6 @@
 # Conecta Canaã - Front End
 
-## Inicio
+## Inicio do ambiente
 
 1. Clone este repositório
 2. Certifique-se que você tenha o Node.js e NPM instalado.
