@@ -1,5 +1,7 @@
 # Conecta Canaã - Front End
 
+Documentação do processo de configuração para o desenvolvimento do front end da aplicação conecta canaaã.
+
 ## Inicio do ambiente
 
 1. Clone este repositório
